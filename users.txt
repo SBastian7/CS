@@ -1,0 +1,1 @@
+[{"owner": "user1", "shr": "user2", "file": "tax.psd"}, {"owner": "user1", "shr": "user2", "file": "isc.jpg"}, {"owner": "user2", "shr": "", "file": "users.txt"}, {"owner": "user2", "shr": "", "file": "tax.psd"}, {"owner": "user2", "shr": "", "file": "isc.jpg"}]
